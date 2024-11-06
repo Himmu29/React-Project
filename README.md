@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a full-featured Employee Management System built with React, designed to streamline task management between Admins and Employees. Admins can efficiently assign tasks to Employees, who can then accept, track, and update task statuses as completed or failed. The system features real-time task monitoring, providing live updates on active, completed, and failed tasks, ensuring seamless communication and workflow. The intuitive, visually polished UI enhances user experience, making it highly scalable and adaptable for real-world enterprise applications.
